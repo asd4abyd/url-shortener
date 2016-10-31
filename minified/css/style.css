@@ -1,0 +1,12 @@
+
+table {
+    table-layout:fixed;
+    border-collapse: collapse;
+    background: #fff;
+}
+
+table td {
+    text-overflow:ellipsis;
+    overflow:hidden;
+    white-space:nowrap;
+}

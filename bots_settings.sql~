@@ -1,0 +1,6 @@
+INSERT INTO luxuryretreats.bots_settings (`key`, value) VALUES ('connections per hour', '20');
+INSERT INTO luxuryretreats.bots_settings (`key`, value) VALUES ('redirect', 'http://www.luxury-retreats.net/');
+INSERT INTO luxuryretreats.bots_settings (`key`, value) VALUES ('use captcha', 'false');
+INSERT INTO luxuryretreats.bots_settings (`key`, value) VALUES ('Secret Key', '6LfP3A8TAAAAABdGg90GqhF-u2jqLzvC5j31o01m');
+INSERT INTO luxuryretreats.bots_settings (`key`, value) VALUES ('Site Key', '6LfP3A8TAAAAAC8kWO5C8G2pJkEMT6sbRpgky3Sz');
+INSERT INTO luxuryretreats.bots_settings (`key`, value) VALUES ('password', '21232f297a57a5a743894a0e4a801fc3');
